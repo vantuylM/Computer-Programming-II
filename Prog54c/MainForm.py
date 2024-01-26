@@ -137,9 +137,14 @@ class MainForm(Form):
 		Area = pi * Radius ** 2
 		Area = round(Area)
 		self._label4.Text = str(Area)
+		Circumference = 2 * pi * Radius
+		Circumference = round(Circumference)
+		self._label5.Text = str(Circumference)
 
 	def Button2Click(self, sender, e):
 		self._textBox1.Text = ""
+		self._label4.Text = ""
+		self._label5.Text = ""
 
 	def Button3Click(self, sender, e):
 		Application.Exit()
