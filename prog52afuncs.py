@@ -1,6 +1,5 @@
 import voidfunctions
 
-
 def calcArea(len, wid) -> int:
   return len * wid
   
