@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
   <PropertyGroup>
-    <ProjectGuid>{CA1A9B5F-1A7E-48D5-A20F-CBF057FB1C4C}</ProjectGuid>
+    <ProjectGuid>{7190D9C5-4C7A-47A3-8861-EDBAB3AD506A}</ProjectGuid>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
-    <RootNamespace>MultiForms</RootNamespace>
-    <AssemblyName>MultiForms</AssemblyName>
+    <RootNamespace>Prog122aFor</RootNamespace>
+    <AssemblyName>Prog122aFor</AssemblyName>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Platform)' == 'x86' ">
     <PlatformTarget>x86</PlatformTarget>
@@ -20,8 +20,8 @@
     <MainFile>Program.py</MainFile>
     <StartArguments>-X:Debug Program.py</StartArguments>
     <StartWorkingDirectory>.\</StartWorkingDirectory>
-    <StartAction>Project</StartAction>
-    <StartProgram>C:\Users\vantuyl.m\Downloads\SharpDevelop\SharpDevelop\SharpDevelopPortable\bin\..\AddIns\BackendBindings\PythonBinding\ipy.exe</StartProgram>
+    <StartAction>Program</StartAction>
+    <StartProgram>C:\Users\vantuyl.m\Desktop\SharpDevelopPortable\bin\..\AddIns\BackendBindings\PythonBinding\ipy.exe</StartProgram>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
     <OutputPath>bin\Release\</OutputPath>
@@ -33,14 +33,14 @@
     <StartArguments>Program.py</StartArguments>
     <StartWorkingDirectory>.\</StartWorkingDirectory>
     <StartAction>Program</StartAction>
-    <StartProgram>C:\Users\vantuyl.m\Downloads\SharpDevelop\SharpDevelop\SharpDevelopPortable\bin\..\AddIns\BackendBindings\PythonBinding\ipy.exe</StartProgram>
+    <StartProgram>C:\Users\vantuyl.m\Desktop\SharpDevelopPortable\bin\..\AddIns\BackendBindings\PythonBinding\ipy.exe</StartProgram>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="IronPython">
-      <HintPath>C:\Users\vantuyl.m\Downloads\SharpDevelop\SharpDevelop\SharpDevelopPortable\bin\..\AddIns\BackendBindings\PythonBinding\IronPython.dll</HintPath>
+      <HintPath>C:\Users\vantuyl.m\Desktop\SharpDevelopPortable\bin\..\AddIns\BackendBindings\PythonBinding\IronPython.dll</HintPath>
     </Reference>
     <Reference Include="IronPython.Modules">
-      <HintPath>C:\Users\vantuyl.m\Downloads\SharpDevelop\SharpDevelop\SharpDevelopPortable\bin\..\AddIns\BackendBindings\PythonBinding\IronPython.Modules.dll</HintPath>
+      <HintPath>C:\Users\vantuyl.m\Desktop\SharpDevelopPortable\bin\..\AddIns\BackendBindings\PythonBinding\IronPython.Modules.dll</HintPath>
     </Reference>
     <Reference Include="mscorlib" />
     <Reference Include="System" />
@@ -59,18 +59,13 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.py" />
     <Compile Include="MainForm.py" />
     <Compile Include="Program.py" />
-    <Compile Include="secondForm.py" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.py</DependentUpon>
-    </EmbeddedResource>
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.py</DependentUpon>
     </EmbeddedResource>

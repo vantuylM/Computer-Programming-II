@@ -13,3 +13,16 @@ C:\Users\vantuyl.m\Desktop\programming-1\Computer-Programming-II\MultiForms\obj\
 C:\Users\vantuyl.m\Desktop\programming-1\Computer-Programming-II\MultiForms\obj\x86\Debug\MultiForms.MainForm.resources
 C:\Users\vantuyl.m\Desktop\programming-1\Computer-Programming-II\MultiForms\obj\x86\Debug\MultiForms.pyproj.GenerateResource.Cache
 C:\Users\vantuyl.m\Desktop\programming-1\Computer-Programming-II\MultiForms\obj\x86\Debug\MultiForms.exe
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\MultiForms\bin\Debug\MultiForms.exe.config
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\MultiForms\bin\Debug\MultiForms.exe
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\MultiForms\bin\Debug\MultiForms.dll
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\MultiForms\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\MultiForms\bin\Debug\Microsoft.Scripting.dll
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\MultiForms\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\MultiForms\bin\Debug\IronPython.xml
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\MultiForms\bin\Debug\IronPython.Modules.xml
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\MultiForms\obj\x86\Debug\MultiForms.pyprojResolveAssemblyReference.cache
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\MultiForms\obj\x86\Debug\MultiForms.Form1.resources
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\MultiForms\obj\x86\Debug\MultiForms.MainForm.resources
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\MultiForms\obj\x86\Debug\MultiForms.pyproj.GenerateResource.Cache
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\MultiForms\obj\x86\Debug\MultiForms.exe
