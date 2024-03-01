@@ -1,4 +1,5 @@
-﻿import System.Drawing
+﻿import math
+import System.Drawing
 import System.Windows.Forms
 
 from System.Drawing import *
@@ -75,10 +76,13 @@ class MainForm(Form):
 		heading = "Numbers\t\tsquare\t\tsquare root"
 		self._listBox1.Items.Add(heading)
 		for num in range(1, 50 + 1):
-			
+			sqrd = num ** 2
+			sqrt = math.sqrt(num)
+			Final = str(num) + "\t\t" + str(sqrd) + "\t\t" + str(round(sqrt, 4))
+			self._listBox1.Items.Add(Final)
 
 	def Button2Click(self, sender, e):
-		pass
+		self._listBox1.Items.Clear()
 
 	def Button3Click(self, sender, e):
-		pass
+		Application.Exit()
