@@ -10,6 +10,8 @@ class Cl213f:
       self.cost = 0.05
     if self.kwh <= 10000:
       self.cost = 0.04
+    if self.kwh > 10000:
+      self.cost = 0.04
     self.cost = self.kwh * self.cost
 
   def __str__(self):
