@@ -1,0 +1,6 @@
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\HelloWorldCSConsole\bin\Debug\HelloWorldCSConsole.exe.config
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\HelloWorldCSConsole\bin\Debug\HelloWorldCSConsole.exe
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\HelloWorldCSConsole\bin\Debug\HelloWorldCSConsole.pdb
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\HelloWorldCSConsole\obj\Debug\HelloWorldCSConsole.csprojResolveAssemblyReference.cache
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\HelloWorldCSConsole\obj\Debug\HelloWorldCSConsole.exe
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\HelloWorldCSConsole\obj\Debug\HelloWorldCSConsole.pdb
