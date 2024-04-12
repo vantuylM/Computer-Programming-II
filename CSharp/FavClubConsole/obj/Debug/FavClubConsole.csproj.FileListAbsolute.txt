@@ -1,0 +1,5 @@
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\FavClubConsole\bin\Debug\FavClubConsole.exe.config
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\FavClubConsole\bin\Debug\FavClubConsole.exe
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\FavClubConsole\bin\Debug\FavClubConsole.pdb
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\FavClubConsole\obj\Debug\FavClubConsole.exe
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\FavClubConsole\obj\Debug\FavClubConsole.pdb

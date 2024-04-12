@@ -1,0 +1,5 @@
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\Prog54cConsole\bin\Debug\Prog54cConsole.exe.config
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\Prog54cConsole\bin\Debug\Prog54cConsole.exe
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\Prog54cConsole\bin\Debug\Prog54cConsole.pdb
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\Prog54cConsole\obj\Debug\Prog54cConsole.exe
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\Prog54cConsole\obj\Debug\Prog54cConsole.pdb

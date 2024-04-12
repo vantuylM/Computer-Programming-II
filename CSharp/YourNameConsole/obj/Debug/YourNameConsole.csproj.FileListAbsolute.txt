@@ -1,0 +1,5 @@
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\YourNameConsole\bin\Debug\YourNameConsole.exe.config
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\YourNameConsole\bin\Debug\YourNameConsole.exe
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\YourNameConsole\bin\Debug\YourNameConsole.pdb
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\YourNameConsole\obj\Debug\YourNameConsole.exe
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\YourNameConsole\obj\Debug\YourNameConsole.pdb
