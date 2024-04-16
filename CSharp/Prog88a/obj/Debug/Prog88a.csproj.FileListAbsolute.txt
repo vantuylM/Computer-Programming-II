@@ -1,0 +1,9 @@
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\Prog88a\bin\Debug\Prog88a.exe.config
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\Prog88a\bin\Debug\Prog88a.exe
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\Prog88a\bin\Debug\Prog88a.pdb
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\Prog88a\obj\Debug\Prog88a.csprojResolveAssemblyReference.cache
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\Prog88a\obj\Debug\Prog88a.Form1.resources
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\Prog88a\obj\Debug\Prog88a.Properties.Resources.resources
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\Prog88a\obj\Debug\Prog88a.csproj.GenerateResource.Cache
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\Prog88a\obj\Debug\Prog88a.exe
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\Prog88a\obj\Debug\Prog88a.pdb
