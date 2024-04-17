@@ -1,0 +1,9 @@
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\Lang54bForm\bin\Debug\Lang54bForm.exe.config
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\Lang54bForm\obj\Debug\Lang54bForm.csprojResolveAssemblyReference.cache
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\Lang54bForm\obj\Debug\Lang54bForm.Form1.resources
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\Lang54bForm\obj\Debug\Lang54bForm.Properties.Resources.resources
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\Lang54bForm\obj\Debug\Lang54bForm.csproj.GenerateResource.Cache
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\Lang54bForm\bin\Debug\Lang54bForm.exe
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\Lang54bForm\bin\Debug\Lang54bForm.pdb
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\Lang54bForm\obj\Debug\Lang54bForm.exe
+C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\Lang54bForm\obj\Debug\Lang54bForm.pdb
