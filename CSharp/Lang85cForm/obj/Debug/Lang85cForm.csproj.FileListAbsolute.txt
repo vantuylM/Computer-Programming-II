@@ -1,1 +1,10 @@
 C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\Lang85cForm\bin\Debug\Lang85cForm.exe.config
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Lang85cForm\bin\Debug\Lang85cForm.exe.config
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Lang85cForm\bin\Debug\Lang85cForm.exe
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Lang85cForm\bin\Debug\Lang85cForm.pdb
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Lang85cForm\obj\Debug\Lang85cForm.csprojResolveAssemblyReference.cache
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Lang85cForm\obj\Debug\Lang85cForm.Form1.resources
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Lang85cForm\obj\Debug\Lang85cForm.Properties.Resources.resources
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Lang85cForm\obj\Debug\Lang85cForm.csproj.GenerateResource.Cache
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Lang85cForm\obj\Debug\Lang85cForm.exe
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Lang85cForm\obj\Debug\Lang85cForm.pdb

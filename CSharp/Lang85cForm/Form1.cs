@@ -22,7 +22,13 @@ namespace Lang85cForm
             int num1 = int.Parse(textBox1.Text);
             num1 = num1 - 165;
             double num2 = (double)num1 / 100.0;
-            int num3 = (int)Math.Round(num2);
+            double num3 = (double)Math.Round(num2, 2);
+            label4.Text = num3.ToString();
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
