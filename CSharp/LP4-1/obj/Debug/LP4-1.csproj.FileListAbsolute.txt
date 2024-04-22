@@ -1,0 +1,6 @@
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\LP4-1\bin\Debug\LP4-1.exe.config
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\LP4-1\bin\Debug\LP4-1.exe
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\LP4-1\bin\Debug\LP4-1.pdb
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\LP4-1\obj\Debug\LP4-1.csprojResolveAssemblyReference.cache
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\LP4-1\obj\Debug\LP4-1.exe
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\LP4-1\obj\Debug\LP4-1.pdb

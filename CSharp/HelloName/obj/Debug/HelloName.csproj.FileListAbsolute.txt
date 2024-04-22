@@ -4,3 +4,6 @@ C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\HelloName\bin
 C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\HelloName\obj\Debug\HelloName.csprojResolveAssemblyReference.cache
 C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\HelloName\obj\Debug\HelloName.exe
 C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\HelloName\obj\Debug\HelloName.pdb
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\HelloName\bin\Debug\HelloName.exe.config
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\HelloName\obj\Debug\HelloName.exe
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\HelloName\obj\Debug\HelloName.pdb
