@@ -23,8 +23,10 @@ namespace Pg266LargeSmall
             int num2 = int.Parse(textBox2.Text);
             if (num1 > num2)
                 label4.Text = "A. is bigger than B.";
-            else
+            else if (num1 < num2)
                 label4.Text = "B. is bigger than A.";
+            else
+                label4.Text = "Numbers are the same";
         }
 
         private void button2_Click(object sender, EventArgs e)
