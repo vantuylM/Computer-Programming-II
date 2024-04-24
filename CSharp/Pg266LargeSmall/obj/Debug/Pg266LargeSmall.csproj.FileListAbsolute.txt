@@ -1,1 +1,9 @@
 C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg266LargeSmall\bin\Debug\Pg266LargeSmall.exe.config
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg266LargeSmall\obj\Debug\Pg266LargeSmall.csprojResolveAssemblyReference.cache
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg266LargeSmall\obj\Debug\Pg266LargeSmall.Form1.resources
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg266LargeSmall\obj\Debug\Pg266LargeSmall.Properties.Resources.resources
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg266LargeSmall\obj\Debug\Pg266LargeSmall.csproj.GenerateResource.Cache
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg266LargeSmall\bin\Debug\Pg266LargeSmall.exe
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg266LargeSmall\bin\Debug\Pg266LargeSmall.pdb
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg266LargeSmall\obj\Debug\Pg266LargeSmall.exe
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg266LargeSmall\obj\Debug\Pg266LargeSmall.pdb
