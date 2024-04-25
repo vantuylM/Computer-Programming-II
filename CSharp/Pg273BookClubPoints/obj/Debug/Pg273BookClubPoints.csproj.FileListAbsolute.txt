@@ -1,1 +1,9 @@
 C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg273BookClubPoints\bin\Debug\Pg273BookClubPoints.exe.config
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg273BookClubPoints\bin\Debug\Pg273BookClubPoints.exe
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg273BookClubPoints\bin\Debug\Pg273BookClubPoints.pdb
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg273BookClubPoints\obj\Debug\Pg273BookClubPoints.csprojResolveAssemblyReference.cache
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg273BookClubPoints\obj\Debug\Pg273BookClubPoints.Form1.resources
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg273BookClubPoints\obj\Debug\Pg273BookClubPoints.Properties.Resources.resources
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg273BookClubPoints\obj\Debug\Pg273BookClubPoints.csproj.GenerateResource.Cache
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg273BookClubPoints\obj\Debug\Pg273BookClubPoints.exe
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg273BookClubPoints\obj\Debug\Pg273BookClubPoints.pdb
