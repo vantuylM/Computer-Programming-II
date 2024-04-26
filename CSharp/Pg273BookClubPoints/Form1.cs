@@ -19,16 +19,16 @@ namespace Pg273BookClubPoints
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int num1 = (textBox1.Text);
+            int num1 = int.Parse(textBox1.Text);
             if (num1 == 0)
                 num1 = 0;
-            if (num1 == 1)
+            else if (num1 == 1)
                 num1 = 5;
-            if (num1 == 2)
+            else if (num1 == 2)
                 num1 = 15;
-            if (num1 == 3)
+            else if (num1 == 3)
                 num1 = 30;
-            if (int num1 >= 4)
+            else
                 num1 = 60;
             label3.Text = num1.ToString();
         }
