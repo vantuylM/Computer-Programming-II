@@ -7,3 +7,6 @@ C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\Lang54bForm\b
 C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\Lang54bForm\bin\Debug\Lang54bForm.pdb
 C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\Lang54bForm\obj\Debug\Lang54bForm.exe
 C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\Lang54bForm\obj\Debug\Lang54bForm.pdb
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Lang54bForm\bin\Debug\Lang54bForm.exe.config
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Lang54bForm\obj\Debug\Lang54bForm.exe
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Lang54bForm\obj\Debug\Lang54bForm.pdb

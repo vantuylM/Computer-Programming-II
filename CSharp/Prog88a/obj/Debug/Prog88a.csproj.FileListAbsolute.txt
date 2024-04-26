@@ -7,3 +7,6 @@ C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\Prog88a\obj\D
 C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\Prog88a\obj\Debug\Prog88a.csproj.GenerateResource.Cache
 C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\Prog88a\obj\Debug\Prog88a.exe
 C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\Prog88a\obj\Debug\Prog88a.pdb
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Prog88a\bin\Debug\Prog88a.exe.config
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Prog88a\obj\Debug\Prog88a.exe
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Prog88a\obj\Debug\Prog88a.pdb

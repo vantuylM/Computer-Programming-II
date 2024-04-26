@@ -1,0 +1,9 @@
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg273MassAndWeight\bin\Debug\Pg273MassAndWeight.exe.config
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg273MassAndWeight\bin\Debug\Pg273MassAndWeight.exe
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg273MassAndWeight\bin\Debug\Pg273MassAndWeight.pdb
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg273MassAndWeight\obj\Debug\Pg273MassAndWeight.csprojResolveAssemblyReference.cache
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg273MassAndWeight\obj\Debug\Pg273MassAndWeight.Form1.resources
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg273MassAndWeight\obj\Debug\Pg273MassAndWeight.Properties.Resources.resources
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg273MassAndWeight\obj\Debug\Pg273MassAndWeight.csproj.GenerateResource.Cache
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg273MassAndWeight\obj\Debug\Pg273MassAndWeight.exe
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg273MassAndWeight\obj\Debug\Pg273MassAndWeight.pdb

@@ -4,3 +4,6 @@ C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\Prog54bConsol
 C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\Prog54bConsole\obj\Debug\Prog54bConsole.csprojResolveAssemblyReference.cache
 C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\Prog54bConsole\obj\Debug\Prog54bConsole.exe
 C:\Users\vantuyl.m\Documents\GitHub\Computer-Programming-II\CSharp\Prog54bConsole\obj\Debug\Prog54bConsole.pdb
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Prog54bConsole\bin\Debug\Prog54bConsole.exe.config
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Prog54bConsole\obj\Debug\Prog54bConsole.exe
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Prog54bConsole\obj\Debug\Prog54bConsole.pdb
