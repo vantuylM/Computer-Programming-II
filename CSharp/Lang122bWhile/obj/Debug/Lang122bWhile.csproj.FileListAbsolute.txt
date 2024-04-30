@@ -1,0 +1,9 @@
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Lang122bWhile\bin\Debug\Lang122bWhile.exe.config
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Lang122bWhile\bin\Debug\Lang122bWhile.exe
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Lang122bWhile\bin\Debug\Lang122bWhile.pdb
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Lang122bWhile\obj\Debug\Lang122bWhile.csprojResolveAssemblyReference.cache
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Lang122bWhile\obj\Debug\Lang122bWhile.Form1.resources
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Lang122bWhile\obj\Debug\Lang122bWhile.Properties.Resources.resources
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Lang122bWhile\obj\Debug\Lang122bWhile.csproj.GenerateResource.Cache
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Lang122bWhile\obj\Debug\Lang122bWhile.exe
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Lang122bWhile\obj\Debug\Lang122bWhile.pdb

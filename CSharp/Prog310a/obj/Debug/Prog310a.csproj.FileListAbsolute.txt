@@ -1,0 +1,8 @@
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Prog310a\bin\Debug\Prog310a.exe.config
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Prog310a\bin\Debug\Prog310a.exe
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Prog310a\bin\Debug\Prog310a.pdb
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Prog310a\obj\Debug\Prog310a.Form1.resources
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Prog310a\obj\Debug\Prog310a.Properties.Resources.resources
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Prog310a\obj\Debug\Prog310a.csproj.GenerateResource.Cache
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Prog310a\obj\Debug\Prog310a.exe
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Prog310a\obj\Debug\Prog310a.pdb

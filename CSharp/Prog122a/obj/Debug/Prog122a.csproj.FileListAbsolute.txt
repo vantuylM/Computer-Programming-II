@@ -1,0 +1,9 @@
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Prog122a\bin\Debug\Prog122a.exe.config
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Prog122a\bin\Debug\Prog122a.exe
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Prog122a\bin\Debug\Prog122a.pdb
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Prog122a\obj\Debug\Prog122a.csprojResolveAssemblyReference.cache
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Prog122a\obj\Debug\Prog122a.Form1.resources
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Prog122a\obj\Debug\Prog122a.Properties.Resources.resources
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Prog122a\obj\Debug\Prog122a.csproj.GenerateResource.Cache
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Prog122a\obj\Debug\Prog122a.exe
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Prog122a\obj\Debug\Prog122a.pdb
