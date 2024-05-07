@@ -19,7 +19,7 @@ namespace Pg347sum
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string variable = Interaction.InputBox("Prompt here", "Title");
+            string variable = Interaction.InputBox("Enter a positive integer value", "Input Needed");
             MessageBox.Show(variable);
         }
 
