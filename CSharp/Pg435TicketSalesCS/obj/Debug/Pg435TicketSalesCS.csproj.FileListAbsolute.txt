@@ -1,0 +1,11 @@
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg435TicketSalesCS\bin\Debug\Pg435TicketSalesCS.exe.config
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg435TicketSalesCS\obj\Debug\Pg435TicketSalesCS.csprojResolveAssemblyReference.cache
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg435TicketSalesCS\obj\Debug\Pg435TicketSalesCS.Form1.resources
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg435TicketSalesCS\obj\Debug\Pg435TicketSalesCS.GeneralForm.resources
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg435TicketSalesCS\obj\Debug\Pg435TicketSalesCS.Properties.Resources.resources
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg435TicketSalesCS\obj\Debug\Pg435TicketSalesCS.StudentForm.resources
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg435TicketSalesCS\obj\Debug\Pg435TicketSalesCS.csproj.GenerateResource.Cache
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg435TicketSalesCS\bin\Debug\Pg435TicketSalesCS.exe
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg435TicketSalesCS\bin\Debug\Pg435TicketSalesCS.pdb
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg435TicketSalesCS\obj\Debug\Pg435TicketSalesCS.exe
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg435TicketSalesCS\obj\Debug\Pg435TicketSalesCS.pdb
