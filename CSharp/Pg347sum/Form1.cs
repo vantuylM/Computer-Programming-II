@@ -19,8 +19,12 @@ namespace Pg347sum
 
         private void button1_Click(object sender, EventArgs e)
         {
-            string variable = Interaction.InputBox("Enter a positive integer value", "Input Needed");
-            MessageBox.Show(variable);
+            int variable = int.Parse(Interaction.InputBox("Enter a positive integer value", "Input Needed"));
+            int num2 = 0;
+            for (int lcv = 0; lcv <= variable; lcv++) {
+                num2 += lcv;
+            }
+                MessageBox.Show(num2.ToString());
         }
 
         private void button2_Click(object sender, EventArgs e)
