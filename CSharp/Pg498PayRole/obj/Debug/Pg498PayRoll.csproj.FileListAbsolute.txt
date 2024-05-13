@@ -1,0 +1,9 @@
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg498PayRole\bin\Debug\Pg498PayRole.exe.config
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg498PayRole\bin\Debug\Pg498PayRole.exe
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg498PayRole\bin\Debug\Pg498PayRole.pdb
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg498PayRole\obj\Debug\Pg498PayRoll.csprojResolveAssemblyReference.cache
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg498PayRole\obj\Debug\Pg498PayRole.Form1.resources
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg498PayRole\obj\Debug\Pg498PayRole.Properties.Resources.resources
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg498PayRole\obj\Debug\Pg498PayRoll.csproj.GenerateResource.Cache
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg498PayRole\obj\Debug\Pg498PayRole.exe
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\Pg498PayRole\obj\Debug\Pg498PayRole.pdb
