@@ -55,6 +55,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pg435TicketSalesCS", "Pg435
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pg498PayRoll", "Pg498PayRole\Pg498PayRoll.csproj", "{0EC28060-62AA-4C78-819B-0021C3C70A31}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrInterview7", "StrInterview7\StrInterview7.csproj", "{77EF156F-DE0D-4801-A751-97591735D30B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StrInterview16", "StrInterview16\StrInterview16.csproj", "{8D7DC37A-CADC-4599-820B-769521F0CBE8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -165,6 +169,14 @@ Global
 		{0EC28060-62AA-4C78-819B-0021C3C70A31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EC28060-62AA-4C78-819B-0021C3C70A31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EC28060-62AA-4C78-819B-0021C3C70A31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77EF156F-DE0D-4801-A751-97591735D30B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77EF156F-DE0D-4801-A751-97591735D30B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77EF156F-DE0D-4801-A751-97591735D30B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77EF156F-DE0D-4801-A751-97591735D30B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D7DC37A-CADC-4599-820B-769521F0CBE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D7DC37A-CADC-4599-820B-769521F0CBE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D7DC37A-CADC-4599-820B-769521F0CBE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D7DC37A-CADC-4599-820B-769521F0CBE8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

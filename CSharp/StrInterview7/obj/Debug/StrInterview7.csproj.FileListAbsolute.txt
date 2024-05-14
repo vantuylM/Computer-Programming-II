@@ -1,0 +1,5 @@
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\StrInterview7\bin\Debug\StrInterview7.exe.config
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\StrInterview7\bin\Debug\StrInterview7.exe
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\StrInterview7\bin\Debug\StrInterview7.pdb
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\StrInterview7\obj\Debug\StrInterview7.exe
+C:\Users\vantuyl.m\Desktop\Computer-Programming-II\CSharp\StrInterview7\obj\Debug\StrInterview7.pdb
